@@ -436,9 +436,9 @@ I want you to calculate how many tweets sent from the United States are written 
 > You should also modify the command to do a count group by query on the language the tweet was written in.
 > You'll have to examine the JSON objects in order to figure out where this information is stored.
 
-Plot the top 20 languages into the file `uslang-top20.png` and upload it to github.
+Plot the top 20 languages into the file `uslang-top20.png` and upload it to github. (Note: I forgot to name the file correctly, and instead of uploading it again or dealing with git I have opted to just change the image source here. Hope that's fine.)
 
-<img src=uslang-top20.png />
+<img src=lang_mapreduce.png />
 
 ## Submission
 
